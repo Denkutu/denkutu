@@ -7,7 +7,7 @@ I'm a **Finance student** with a strong passion for **programming and UI/UX desi
 - **Languages:** Python, JavaScript, SQL
 - **Frontend:** HTML, CSS
 - **Backend:** Django, PostgreSQL
-- **Tools:** PyCharmVS Code, Git, GitHub, Figma
+- **Tools:** PyCharm, VS Code, Git, GitHub, Figma
 
 ## 🔥 Featured Projects
 ### **📅 Startup project for a client**
