@@ -19,8 +19,8 @@ An online store built from scratch to sell **fruits and vegetables**, featuring 
 🔗 [in progress] (#)
 
 ## 📫 Connect with Me
-- 🌐 [Portfolio Website] (https://denkutu.github.io/MyPortfolio)
-- 💼 [LinkedIn] (https://www.linkedin.com/in/deniz-karabekir-186145352)
+- 🌐 [Portfolio Website] https://denkutu.github.io/MyPortfolio
+- 💼 [LinkedIn] https://www.linkedin.com/in/deniz-karabekir-186145352
 
 ---
 🚀 **Let's build and learn together!** Feel free to explore my repositories and collaborate!
